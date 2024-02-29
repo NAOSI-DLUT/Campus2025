@@ -12,6 +12,7 @@
 | ---- | ------------------------------------------------------------ | --------- | ---- | --------------------------- |
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2) | 2024/2/26 |      |                             |
 | 快手 | [日常实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) | 2024/2/26 |      | 不区分暑期日常,均有转正机会 |
+| 阿里巴巴控股集团 | [25届实习](https://talent-holding.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2024/2/29 |      |                             |
 
 
 ### 游戏公司
@@ -26,6 +27,7 @@
 | 公司           | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
 | -------------- | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
 |      微软      |  [暑期实习](https://jobs.careers.microsoft.com/global/en/search?lc=China)                |   2024/2/27   |      |                          |
+|      戴尔      |  [暑期实习](https://chinajobs.dell.com/%e7%b1%bb%e5%88%ab/jobs/25848/63696/1)                |   2024/2/29   |      |                          |
 
 
 ### 机厂&&通信&&车厂&&IC
