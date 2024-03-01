@@ -22,6 +22,7 @@
 | --------------- | ------------------------------------------------------------ | --------- | ---- | ---- |
 |    搜狐畅游     |    [25届实习](https://app.mokahr.com/campus-recruitment/cyou-inc/42233?recommendCode=DSGUrJ34#/jobs)        |   2024/2/27   |      |      |
 | 米哈游 | [暑期实习](https://jobs.mihoyo.com/#/campus/position) | 2024/2/29 |      | 勾选2024春招&&实习 可看到，部分已开 |
+| 鹰角 | [暑期实习](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/) | 2024/3/1 |      |  |
 
 ### 外企
 
