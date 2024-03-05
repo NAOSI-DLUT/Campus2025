@@ -25,6 +25,7 @@
 
 | 公司            | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | --------------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern) | 2024/3/5 |  |  |
 | 完美世界 | [日常实习](https://careersite.tupu360.com/wanmei/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2024/3/3 |  |  |
 | 鹰角 | [暑期实习](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/) | 2024/3/1 |      |  |
 | 米哈游 | [暑期实习](https://jobs.mihoyo.com/#/campus/position) | 2024/2/29 |      | 勾选2024春招&&实习 可看到，部分已开 |
