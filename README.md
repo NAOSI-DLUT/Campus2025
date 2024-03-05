@@ -10,6 +10,7 @@
 
 | 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                        |
 | ---- | ------------------------------------------------------------ | --------- | ---- | --------------------------- |
+| 腾讯 | [暑期实习](https://join.qq.com/post.html?query=p_2) | 2024/3/5 |      |                             |
 | 58同城 | [转正实习](https://campus.58.com/campus/jobs) | 2024/3/5 |      |                             |
 | 携程 | [留用实习](https://app.mokahr.com/campus-recruitment/trip/37757?sourceToken=60db9f675d5b58f868aa5dd97721a7aa#/jobs?project%5B0%5D=100054752&page=1&anchorName=jobsList) | 2024/3/5 |      |                             |
 | 京东 | [JDY实习生计划](https://campus.jd.com/#/jobs?selProjects=45) | 2024/3/5 |      |                             |
