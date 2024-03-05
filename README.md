@@ -18,6 +18,7 @@
 | 阿里巴巴控股集团 | [25届实习](https://talent-holding.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2024/2/29 |      |                             |
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2) | 2024/2/26 |      |                             |
 | 快手 | [日常实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) | 2024/2/26 |      | 不区分暑期日常,均有转正机会 |
+| 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/intern) | 2024/3/5 |      |  |
 
 
 ### 游戏公司
