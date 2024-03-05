@@ -10,6 +10,9 @@
 
 | 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                        |
 | ---- | ------------------------------------------------------------ | --------- | ---- | --------------------------- |
+| 携程 | [留用实习](https://app.mokahr.com/campus-recruitment/trip/37757?sourceToken=60db9f675d5b58f868aa5dd97721a7aa#/jobs?project%5B0%5D=100054752&page=1&anchorName=jobsList) | 2024/3/5 |      |                             |
+| 京东 | [JDY实习生计划](https://campus.jd.com/#/jobs?selProjects=45) | 2024/3/5 |      |                             |
+| 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/m/pages/index/index?type=train) | 2024/3/5 |      |                             |
 | 字节跳动 | [ByteIntern](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=7194661126919358757&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 2024/3/1 |      |                             |
 | 阿里巴巴控股集团 | [25届实习](https://talent-holding.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2024/2/29 |      |                             |
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2) | 2024/2/26 |      |                             |
@@ -46,6 +49,7 @@
 
 | 公司     | 招聘状态&&投递链接                       | 更新日期 | 地点 | 备注 |
 | -------- | ---------------------------------------- | -------- | ---- | ---- |
+| 微众银行 | [暑期实习](https://campus.webank.com/m/campus-recruitment/webankhr/18005/#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%AE%A1%E5%88%92) | 2024/3/5 |      |      |
 | 汇丰环球 | [暑期实习](https://www.hsbc.com/careers) | 2024/3/3 |      |      |
 
 
