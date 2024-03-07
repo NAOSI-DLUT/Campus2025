@@ -20,6 +20,7 @@
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2) | 2024/2/26 |      |                             |
 | 快手 | [日常实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) | 2024/2/26 |      | 不区分暑期日常,均有转正机会 |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/intern) | 2024/3/5 |      |  |
+| 腾讯 | [暑期实习](https://join.qq.com/post.html?query=p_2) | 2024/3/7 |      |  [一些要求看这里](https://join.qq.com/detail.html?id=270)|
 
 
 ### 游戏公司
