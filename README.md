@@ -14,6 +14,7 @@
 
 | 公司             | 招聘状态&&投递链接                                                                                                                                                                | 更新日期  | 地点 | 备注                                                                              |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|-----------------------------------------------------------------------------------|
+| 蚂蚁金服         | [转正实习](https://talent.antgroup.com/campus-full-list)  | 2024/3/9  |      | |
 | 高德地图         | [暑期实习](https://talent.amap.com/campus/position-list?campusType=internship&lang=zh)                                                                                            | 2024/3/7  |      | [一些要求看这里](https://talent.amap.com/campus/notice?code=1&lang=zh&tab=notice) |
 | 阿里云           | [暑期实习](https://careers.aliyun.com/home?lang=zh)                                                                                                                               | 2024/3/7  |      | 3.12正式启动, [推文](https://mp.weixin.qq.com/s/RRsKUjQjrsoybyATofFaoQ)           |
 | 腾讯             | [暑期实习](https://join.qq.com/post.html?query=p_2)                                                                                                                               | 2024/3/5  |      | [一些要求看这里](https://join.qq.com/detail.html?id=270)                          |
@@ -59,6 +60,7 @@
 
 | 公司     | 招聘状态&&投递链接                                                                                                             | 更新日期 | 地点 | 备注 |
 |--------|----------------------------------------------------------------------------------------------------------------------------|----------|------|------|
+| 招商银行信用卡         | [暑期实习](https://career.cmbchina.com/positionlist/DF94FD6D-26D3-4A19-9E69-577C4BA1DE82)  | 2024/3/9  |      | |
 | 微众银行 | [暑期实习](https://campus.webank.com/m/campus-recruitment/webankhr/18005/#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%AE%A1%E5%88%92) | 2024/3/5 |      |      |
 | 汇丰环球 | [暑期实习](https://www.hsbc.com/careers)                                                                                       | 2024/3/3 |      |      |
 
