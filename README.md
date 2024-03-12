@@ -14,6 +14,7 @@
 
 | 公司             | 招聘状态&&投递链接                                                                                                                                                                | 更新日期  | 地点 | 备注                                                                              |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|-----------------------------------------------------------------------------------|
+| 饿了么           | [25届实习](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh) | 2024/3/12 |      | [一些要求看这里](https://talent.ele.me/campus/notice?code=2&lang=zh&tab=notice) |
 | 蚂蚁金服         | [转正实习](https://talent.antgroup.com/campus-full-list)  | 2024/3/9  |      | |
 | 高德地图         | [暑期实习](https://talent.amap.com/campus/position-list?campusType=internship&lang=zh)                                                                                            | 2024/3/7  |      | [一些要求看这里](https://talent.amap.com/campus/notice?code=1&lang=zh&tab=notice) |
 | 阿里云           | [暑期实习](https://careers.aliyun.com/home?lang=zh)                                                                                                                               | 2024/3/7  |      | 3.12正式启动, [推文](https://mp.weixin.qq.com/s/RRsKUjQjrsoybyATofFaoQ)           |
