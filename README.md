@@ -14,6 +14,7 @@
 
 | 公司             | 招聘状态&&投递链接                                                                                                                                                                | 更新日期  | 地点 | 备注                                                                              |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|-----------------------------------------------------------------------------------|
+| 快手             | [暑期实习](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionNatureCode=intern)  | 2024/3/13 |      | |  |
 | 钉钉         | [25届实习](https://talent.dingtalk.com/campus/position-list?campusType=internship&lang=zh)  | 2024/3/12  |      | |
 | 饿了么         | [25届实习](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)  | 2024/3/9  |      | |
 | 蚂蚁金服         | [转正实习](https://talent.antgroup.com/campus-full-list)  | 2024/3/9  |      | |
@@ -27,7 +28,7 @@
 | 字节跳动         | [ByteIntern](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=7194661126919358757&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 2024/3/1  |      |                                                                                   |
 | 阿里巴巴控股集团 | [25届实习](https://talent-holding.alibaba.com/campus/position-list?campusType=internship&lang=zh)                                                                                 | 2024/2/29 |      |                                                                                   |
 | 美团             | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2)                                                                                                                 | 2024/2/26 |      |                                                                                   |
-| 快手             | [暑期实习](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionNatureCode=intern)  | 2024/3/13 |      | |  |
+| 快手 | [日常实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) | 2024/2/26 | | 暑期请见本表3.14更新条目 | |
 
 
 
