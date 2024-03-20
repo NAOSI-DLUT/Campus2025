@@ -14,6 +14,11 @@
 
 | 公司             | 招聘状态&&投递链接                                                                                                                                                                | 更新日期  | 地点 | 备注                                                                              |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|-----------------------------------------------------------------------------------|
+| 地平线             | [25届实习](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html)  | 2024/3/20 |      | |  |
+| 华为             | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList)  | 2024/3/20 |      | |  |
+| 360             | [25届及以后实习](https://360campus.zhiye.com/jobs)  | 2024/3/20 |      | |  |
+| Shopee             | [25届实习](https://app.mokahr.com/campus-recruitment/shopee/2962#/jobs?zhineng%5B0%5D=168594&page=1&anchorName=jobsList)  | 2024/3/20 |      | |  |
+| 百度             | [25届实习](https://talent.baidu.com/jobs/list)  | 2024/3/20 |      | |  |
 | 快手             | [暑期实习](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionNatureCode=intern)  | 2024/3/13 |      | |  |
 | 钉钉         | [25届实习](https://talent.dingtalk.com/campus/position-list?campusType=internship&lang=zh)  | 2024/3/12  |      | |
 | 饿了么         | [25届实习](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)  | 2024/3/9  |      | |
