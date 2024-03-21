@@ -57,11 +57,12 @@
 
 ### 机厂&&通信&&车厂&&IC
 
-| 公司 | 招聘状态&&投递链接                                                                                                                                                                          | 更新日期  | 地点 | 备注 |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|------|
+| 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| ---- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 小米 | [25届实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=7330517396822163565&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=6AA3R7B) | 2024/3/4  |      |      |
-| 吉利 | [暑期实习](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList)                                                                                 | 2024/3/3  |      |      |
-| VIVO | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true)                                | 2024/2/27 |      |      |
+| 吉利 | [暑期实习](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2024/3/3  |      |      |
+| VIVO | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2024/2/27 |      |      |
+| OPPO | [25届实习](https://careers.oppo.com/university/oppo/campus/post?recruitType=Intern) | 2024/3/21 |      |      |
 
 
 ### 银行&&保险&&金融&&地产&&国企
