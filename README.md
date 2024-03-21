@@ -21,6 +21,8 @@
 | 百度             | [25届实习](https://talent.baidu.com/jobs/list)  | 2024/3/20 |      | |  |
 | 快手             | [暑期实习](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionNatureCode=intern)  | 2024/3/13 |      | |  |
 | 钉钉         | [25届实习](https://talent.dingtalk.com/campus/position-list?campusType=internship&lang=zh)  | 2024/3/12  |      | |
+| 淘天集团         | [25 届实习](https://talent.taotian.com/campus/position-list?campusType=internship&lang=zh)                                                                                        | 2024/3/21 |      |                                                                                   |
+
 | 饿了么         | [25届实习](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)  | 2024/3/9  |      | |
 | 蚂蚁金服         | [转正实习](https://talent.antgroup.com/campus-full-list)  | 2024/3/9  |      | |
 | 高德地图         | [暑期实习](https://talent.amap.com/campus/position-list?campusType=internship&lang=zh)                                                                                            | 2024/3/7  |      | [一些要求看这里](https://talent.amap.com/campus/notice?code=1&lang=zh&tab=notice) |
