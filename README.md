@@ -39,13 +39,13 @@
 
 ### 游戏公司
 
-| 公司     | 招聘状态&&投递链接                                                                                     | 更新日期  | 地点 | 备注                               |
-|--------|-----------------------------------------------------------------------------------------------------|-----------|------|------------------------------------|
-| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern)                                                     | 2024/3/5  |      |                                    |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                               |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ---------------------------------- |
+| 米哈游   | [暑期实习](https://jobs.mihoyo.com/?sharePageId=37496&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/3/10 |      | 勾选2024春招&&实习, 点链接就是内推 |
+| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern)           | 2024/3/5  |      |                                    |
 | 完美世界 | [日常实习](https://careersite.tupu360.com/wanmei/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2024/3/3  |      |                                    |
-| 鹰角     | [暑期实习](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/)                             | 2024/3/1  |      |                                    |
-| 米哈游   | [暑期实习](https://jobs.mihoyo.com/?sharePageId=37496&recommendationCode=OHLJ9&isRecommendation=true#/campus/position)                                                  | 2024/3/10 |      | 勾选2024春招&&实习, 点链接就是内推 |
-| 搜狐畅游 | [25届实习](https://app.mokahr.com/campus-recruitment/cyou-inc/42233?recommendCode=DSGUrJ34#/jobs)      | 2024/2/27 |      |                                    |
+| 鹰角     | [暑期实习](https://campus.hypergryph.com/campus_apply/hypergryph/26326/#/) | 2024/3/1  |      |                                    |
+| 搜狐畅游 | [25届实习](https://app.mokahr.com/campus-recruitment/cyou-inc/42233?recommendCode=DSGUrJ34#/jobs) | 2024/2/27 |      |                                    |
 
 ### 外企
 
@@ -59,20 +59,20 @@
 
 | 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | ---- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| OPPO | [25届实习](https://careers.oppo.com/university/oppo/campus/post?recruitType=Intern) | 2024/3/21 |      |      |
 | 小米 | [25届实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=7330517396822163565&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=6AA3R7B) | 2024/3/4  |      |      |
 | 吉利 | [暑期实习](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2024/3/3  |      |      |
 | VIVO | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2024/2/27 |      |      |
-| OPPO | [25届实习](https://careers.oppo.com/university/oppo/campus/post?recruitType=Intern) | 2024/3/21 |      |      |
 
 
 ### 银行&&保险&&金融&&地产&&国企
 
 | 公司     | 招聘状态&&投递链接                                                                                                             | 更新日期 | 地点 | 备注 |
 |--------|----------------------------------------------------------------------------------------------------------------------------|----------|------|------|
+| 中国银行 | [暑期实习](https://campus.chinahr.com/pages/2024-boc-spring) | 2024/3/19 |  |  |
 | 招商银行信用卡         | [暑期实习](https://career.cmbchina.com/positionlist/DF94FD6D-26D3-4A19-9E69-577C4BA1DE82)  | 2024/3/9  |      | |
 | 微众银行 | [暑期实习](https://campus.webank.com/m/campus-recruitment/webankhr/18005/#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%AE%A1%E5%88%92) | 2024/3/5 |      |      |
 | 汇丰环球 | [暑期实习](https://www.hsbc.com/careers)                                                                                       | 2024/3/3 |      |      |
-| 中国银行       | [暑期实习](https://campus.chinahr.com/pages/2024-boc-spring)                                                             | 2024/3/19 |      |      |
 
 
 
