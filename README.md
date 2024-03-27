@@ -20,7 +20,6 @@
 | 地平线           | [25 届实习](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html)                                                                                                  | 2024/3/20 |      |                                                                                   |
 | 华为             | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList)                                                                            | 2024/3/20 |      |                                                                                   |
 | 360              | [25 届及以后实习](https://360campus.zhiye.com/jobs)                                                                                                                               | 2024/3/20 |      |                                                                                   |
-| Shopee           | [25 届实习](https://app.mokahr.com/campus-recruitment/shopee/2962#/jobs?zhineng%5B0%5D=168594&page=1&anchorName=jobsList)                                                         | 2024/3/20 |      |                                                                                   |
 | 百度             | [25 届实习](https://talent.baidu.com/jobs/list)                                                                                                                                   | 2024/3/20 |      |                                                                                   |
 | 快手             | [暑期实习](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&positionNatureCode=intern)                                                                         | 2024/3/13 |      |                                                                                   |
 | 钉钉             | [25 届实习](https://talent.dingtalk.com/campus/position-list?campusType=internship&lang=zh)                                                                                       | 2024/3/12 |      |                                                                                   |
@@ -52,10 +51,11 @@
 
 ### 外企
 
-| 公司 | 招聘状态&&投递链接                                                           | 更新日期  | 地点 | 备注 |
-|----|--------------------------------------------------------------------------|-----------|------|------|
-| 戴尔 | [暑期实习](https://chinajobs.dell.com/%e7%b1%bb%e5%88%ab/jobs/25848/63696/1) | 2024/2/29 |      |      |
-| 微软 | [暑期实习](https://jobs.careers.microsoft.com/global/en/search?lc=China)     | 2024/2/27 |      |      |
+| 公司   | 招聘状态&&投递链接                                                                                                        | 更新日期  | 地点 | 备注 |
+| ------ | ------------------------------------------------------------------------------------------------------------------------- | --------- | ---- | ---- |
+| Shopee | [25 届实习](https://app.mokahr.com/campus-recruitment/shopee/2962#/jobs?zhineng%5B0%5D=168594&page=1&anchorName=jobsList) | 2024/3/20 |      |      |
+| 戴尔   | [暑期实习](https://chinajobs.dell.com/%e7%b1%bb%e5%88%ab/jobs/25848/63696/1)                                              | 2024/2/29 |      |      |
+| 微软   | [暑期实习](https://jobs.careers.microsoft.com/global/en/search?lc=China)                                                  | 2024/2/27 |      |      |
 
 
 ### 机厂&&通信&&车厂&&IC
