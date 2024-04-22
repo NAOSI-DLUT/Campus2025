@@ -87,8 +87,8 @@
 
 | 公司     | 招聘状态&&投递链接                                                                                                             | 更新日期 | 地点 | 备注 |
 |--------|----------------------------------------------------------------------------------------------------------------------------|----------|------|------|
-| 中国银行 | [暑期实习](https://campus.chinahr.com/pages/2024-boc-spring) | 2024/3/19 |  |  |
-| 招商银行信用卡         | [暑期实习](https://career.cmbchina.com/positionlist/DF94FD6D-26D3-4A19-9E69-577C4BA1DE82)  | 2024/3/9  |      | |
+| 中国银行 | [暑期实习](https://campus.chinahr.com/pages/2024-boc-spring) | 2024/5/22 |  | 已截止 |
+| 招商银行信用卡         | [暑期实习](https://career.cmbchina.com/positionlist/DF94FD6D-26D3-4A19-9E69-577C4BA1DE82)  | 2024/3/9  |      | 截止时间：2024-04-25 |
 | 微众银行 | [暑期实习](https://campus.webank.com/m/campus-recruitment/webankhr/18005/#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E8%AE%A1%E5%88%92) | 2024/3/5 |      |      |
 | 汇丰环球 | [暑期实习](https://www.hsbc.com/careers)                                                                                       | 2024/3/3 |      |      |
 
