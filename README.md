@@ -20,9 +20,10 @@
 <tr> <td>TP-LINK</td> <td><a href='https://mp.weixin.qq.com/s/iO79_fRQlF5kDBObYmkMsg'>秋招提前批</a></td> <td>2024/5/29</td> <td></td> <td></td> </tr>
 <tr> <td>深信服</td> <td><a href='https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ'>秋招提前批</a></td> <td>2024/5/08</td> <td></td> <td></td> </tr>
 <tr> <td>美团</td> <td>官网 - 北斗计划</td> <td>2024/6/12</td> <td></td> <td></td> </tr>
-<tr> <td>科大讯飞</td> <td>飞星计划</td> <td>2024/6/17</td> <td></td> <td></td> </tr>
 <tr> <td>腾讯</td> <td>混元大模型</td> <td>2024/5/17</td> <td></td> <td></td> </tr>
+<tr> <td>科大讯飞</td> <td><a href='https://campus.iflytek.com/'>秋招提前批</a></td> <td>2024-06-17</td> <td></td> <td></td> </tr>
 <tr> <td>浪潮集团</td> <td><a href='https://mp.weixin.qq.com/s/3VhnP-b6RIUBBnNHThVu9A'>秋招提前批</a></td> <td>2024-06-27</td> <td></td> <td></td> </tr>
+<tr> <td>CVTE</td> <td><a href='https://campus.cvte.com/'>秋招提前批</a></td> <td>2024-06-27</td> <td></td> <td></td> </tr>
 
 
 </tbody>
