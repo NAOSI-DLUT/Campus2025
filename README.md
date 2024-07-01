@@ -10,13 +10,25 @@
 
 ## 秋招篇
 
-| 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                                         |
-| ---------------- | ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ |
-| TP-LINK  | 秋招提前批（待更新链接） | 2024/5/29 | | |
-| 深信服  | [秋招提前批](https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ) | 2024/5/08 | | |
-| 美团 | 北斗计划 | 2024/6/12 | | |
-| 科大讯飞 | 飞星计划 | 2024/6/17 | | |
-| 腾讯 | 混元大模型 | 2024/5/17 | | |
+<table>
+<thead>
+<tr> <th>公司</th> <th>招聘状态&&投递链接</th> <th>更新日期</th> <th>地点</th> <th>备注</th> <tr>
+</thead>
+<tbody>
+
+
+<tr> <td>TP-LINK</td> <td><a href='https://mp.weixin.qq.com/s/iO79_fRQlF5kDBObYmkMsg'>秋招提前批</a></td> <td>2024/5/29</td> <td></td> <td></td> </tr>
+<tr> <td>深信服</td> <td><a href='https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ'>秋招提前批</a></td> <td>2024/5/08</td> <td></td> <td></td> </tr>
+<tr> <td>美团</td> <td>官网 - 北斗计划</td> <td>2024/6/12</td> <td></td> <td></td> </tr>
+<tr> <td>科大讯飞</td> <td>飞星计划</td> <td>2024/6/17</td> <td></td> <td></td> </tr>
+<tr> <td>腾讯</td> <td>混元大模型</td> <td>2024/5/17</td> <td></td> <td></td> </tr>
+<tr> <td>浪潮集团</td> <td><a href='https://mp.weixin.qq.com/s/3VhnP-b6RIUBBnNHThVu9A'>秋招提前批</a></td> <td>2024-06-27</td> <td></td> <td></td> </tr>
+
+
+</tbody>
+</table>
+
+<br>
 
 
 ## 实习篇
