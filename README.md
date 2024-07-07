@@ -23,6 +23,7 @@
 | CVTE     | 秋招提前批  | 2024/6/27 |      |      |
 | DJI大疆 | 秋招 | 2024/7/4 | | |
 | 南京银行 | [秋招提前批](https://job.njcb.com.cn/#/campus) | 2024/7/4 | | |
+| 万德 Wind | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html) | 2024/7/6 | | |
 
 
 
