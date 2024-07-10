@@ -26,7 +26,7 @@
 | 万德 Wind | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html) | 2024/7/6 | | |
 | 京东2025管培生 | [微信推文](https://short-link.me/H3Jg) | 2024/7/8 | | |
 | 网易雷火 | [秋招](https://leihuo.163.com/campus/#/) | 2024/7/9 | | |
-
+| OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
 
 
 ## 实习篇
