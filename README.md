@@ -28,7 +28,7 @@
 | 网易雷火 | [秋招](https://leihuo.163.com/campus/#/) | 2024/7/9 | | |
 | 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
 | 米哈游 | [秋招提前批](https://jobs.mihoyo.com/#/campus) | 2024/7/10 | | |
-
+| OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
 
 
 ## 实习篇
