@@ -27,6 +27,7 @@
 | 京东2025管培生 | [微信推文](https://short-link.me/H3Jg) | 2024/7/8 | | |
 | 网易雷火 | [秋招](https://leihuo.163.com/campus/#/) | 2024/7/9 | | |
 | 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
+| 米哈游 | [秋招提前批](https://jobs.mihoyo.com/#/campus) | 2024/7/10 | | |
 
 
 
