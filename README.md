@@ -35,7 +35,7 @@
 | 京东2025管培生 | [微信推文](https://short-link.me/H3Jg) | 2024/7/8 | | |
 | 网易雷火 | [秋招](https://leihuo.163.com/campus/#/) | 2024/7/9 | | |
 | 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
-| 米哈游 | [秋招提前批](https://jobs.mihoyo.com/#/campus) | 2024/7/10 | | |
+| 米哈游 | [秋招提前批内推](https://jobs.mihoyo.com/?sharePageId=56263&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/7/10 | 上海 | 提前批仅部分技术岗开发，内推概率免笔试，正式批7月末，校招仅可投一个岗位。 |
 | OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
 
 ## 实习篇
