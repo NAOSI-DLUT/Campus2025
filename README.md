@@ -1,5 +1,6 @@
 # Campus2025
 
+> [!IMPORTANT]
 > **欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2025) PR 更新最新信息及勘误，需要大家的帮助来更新仓库**
 >
 > 2024届可移步[2024届互联网校招信息汇总](https://campus2024.top/)，25届想**参与维护本仓库**的同学欢迎加群869979067
@@ -30,6 +31,9 @@
 | 米哈游 | [秋招提前批](https://jobs.mihoyo.com/#/campus) | 2024/7/10 | | |
 | OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
 
+> [!WARNING]
+> 另外可以参考其他类似项目：
+> [飞书链接](https://ywki1mfbfma.feishu.cn/base/A36cbJ1zEaWFj5sSFcKcdHjWnof?table=tbljK0JfkHnGyubB&view=vewx3iOFk8)
 
 ## 实习篇
 
@@ -140,4 +144,5 @@
 | 用友     | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) | 2024/4/7 |      |      |
 | 帆软     | [日常实习](https://join.fanruan.com/)                                                                                                                                                                                                                                                                                    | 2024/3/3 |      |      |
 
+> [!IMPORTANT]
 > Please use `Markdown Table Prettifier` in Visual Studio Code to format these table
