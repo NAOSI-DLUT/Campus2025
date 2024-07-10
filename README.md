@@ -9,6 +9,13 @@
 >
 > **祝大家都能拿到满意的offer**
 
+> [!WARNING]
+> 另外可以参考其他类似项目：
+> [飞书链接](https://ywki1mfbfma.feishu.cn/base/A36cbJ1zEaWFj5sSFcKcdHjWnof?table=tbljK0JfkHnGyubB&view=vewx3iOFk8)
+
+> [!IMPORTANT]
+> Please use `Markdown Table Prettifier` in Visual Studio Code to format these table
+
 ## 秋招篇
 
 | 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                                         |
@@ -30,10 +37,6 @@
 | 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
 | 米哈游 | [秋招提前批](https://jobs.mihoyo.com/#/campus) | 2024/7/10 | | |
 | OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
-
-> [!WARNING]
-> 另外可以参考其他类似项目：
-> [飞书链接](https://ywki1mfbfma.feishu.cn/base/A36cbJ1zEaWFj5sSFcKcdHjWnof?table=tbljK0JfkHnGyubB&view=vewx3iOFk8)
 
 ## 实习篇
 
@@ -143,6 +146,3 @@
 | 七牛云   | [日常实习](https://campus.qiniu.com/campus/jobs)                                                                                                                                                                                                                                                                         | 2024/4/7 |      |      |
 | 用友     | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) | 2024/4/7 |      |      |
 | 帆软     | [日常实习](https://join.fanruan.com/)                                                                                                                                                                                                                                                                                    | 2024/3/3 |      |      |
-
-> [!IMPORTANT]
-> Please use `Markdown Table Prettifier` in Visual Studio Code to format these table
