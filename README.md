@@ -20,7 +20,6 @@
 
 | 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                                         |
 | ---------------- | ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ |
-| MiniMax | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp) | 2024/7/20 | 北京、上海 | 提前批不限投递次数，内推码：8W99NRZ |
 | TP-LINK  | 秋招提前批 | 2024/5/29 | | |
 | 深信服  | [秋招提前批](https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ) | 2024/5/8 | | |
 | 美团 | 北斗计划 | 2024/6/12 | | |
@@ -38,6 +37,7 @@
 | 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
 | 米哈游 | [秋招提前批内推](https://jobs.mihoyo.com/?sharePageId=56263&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/7/10 | 上海 | 提前批仅部分技术岗开发，内推概率免笔试，正式批7月末，校招仅可投一个岗位。 |
 | OPPO | [秋招](https://careers.oppo.com/university/oppo/campus) | 2024/7/10 | | |
+| MiniMax | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp) | 2024/7/20 | 北京、上海 | 提前批不限投递次数，内推码：8W99NRZ |
 
 ## 实习篇
 
@@ -45,7 +45,6 @@
 
 | 公司             | 招聘状态&&投递链接                                                                                                                                                                | 更新日期  | 地点 | 备注                                                                              |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------|-----------------------------------------------------------------------------------|
-| MiniMax             | [日常实习](https://vrfi1sk8a0.jobs.feishu.cn/s/iMhdhs8L)                                                                                                   | 2024/7/20  | 北京、上海 | 内推码：8W99NRZ                                                                                  |
 | 商汤             | [暑期实习](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/interns.html)                                                                                                   | 2024/4/7  |      |                                                                                   |
 | 旷视             | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/jobs?project=100030016)                                                                                      | 2024/4/7  |      |                                                                                   |
 | 腾讯音乐         | [暑期实习](https://join.tencentmusic.com/campus/post/?type=20)                                                                                                                    | 2024/4/7  |      |                                                                                   |
@@ -77,7 +76,7 @@
 | 阿里巴巴控股集团 | [25 届实习](https://talent-holding.alibaba.com/campus/position-list?campusType=internship&lang=zh)                                                                                | 2024/2/29 |      |                                                                                   |
 | 美团             | [暑期实习](https://zhaopin.meituan.com/web/campus?hiringType=2_2)                                                                                                                 | 2024/2/26 |      |                                                                                   |
 | 快手             | [日常实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic)                                                                                   | 2024/2/26 |      | 暑期请见本表 3.14 更新条目                                                        |
-
+| MiniMax             | [日常实习](https://vrfi1sk8a0.jobs.feishu.cn/s/iMhdhs8L)                                                                                                   | 2024/7/20  | 北京、上海 | 内推码：8W99NRZ                                                                                  |
 
 
 ### 游戏公司
