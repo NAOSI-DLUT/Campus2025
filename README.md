@@ -18,27 +18,28 @@
 
 ## 秋招篇
 
-| 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                                         |
-| ---------------- | ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ |
-| TP-LINK  | 秋招提前批 | 2024/5/29 | | |
-| 深信服  | [秋招提前批](https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ) | 2024/5/8 | | |
-| 美团 | 北斗计划 | 2024/6/12 | | |
-| 科大讯飞 | 飞星计划 | 2024/6/17 | | |
-| 腾讯 | 混元大模型 | 2024/5/17 | | |
-| 小米硬件提前批校招 | [官方链接](https://hr.xiaomi.com/campus/recruitment?noticeId=1) | 2024/7/2 |北京、武汉、南京、深圳、上海、西安 | 每位同学最多可投递两个职位，但同时仅有一个投递申请可在应聘流程中，我们会默认优先处理最早投递的职位。投递成功后，不可以修改投递职位。|
-| 友塔游戏 | 秋招提前批  | 2024/6/19 |      |      |
-| 浪潮集团 | 秋招提前批  | 2024/6/27 |      |      |
-| CVTE     | 秋招提前批  | 2024/6/27 |      |      |
-| DJI大疆 | 秋招 | 2024/7/4 | | |
-| 南京银行 | [秋招提前批](https://job.njcb.com.cn/#/campus) | 2024/7/4 | | |
-| 万德 Wind | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html) | 2024/7/6 | | |
-| 京东2025管培生 | [微信推文](https://short-link.me/H3Jg) | 2024/7/8 | | |
-| 网易雷火 | [秋招](https://leihuo.163.com/campus/#/) | 2024/7/9 | | |
-| 百度 | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE) | 2024/7/9 | | |
-| 米哈游 | [秋招正式批内推](https://jobs.mihoyo.com/m/?sharePageId=58158&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/7/28 | 上海 | 链接直达内推 |
-| OPPO | [秋招](https://opdwz.cn/BnYFjuz) | 2024/7/10 | | 内推码：S9055565 |
-| MiniMax | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp) | 2024/7/20 | 北京、上海 | 提前批不限投递次数，内推码：8W99NRZ |
+| 公司               | 招聘状态&&投递链接                                                                                                           | 更新日期  | 地点                          | 备注                                                                                                                            |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| TP-LINK            | 秋招提前批                                                                                                                   | 2024/5/29 |                               |                                                                                                                                 |
+| 深信服             | [秋招提前批](https://mp.weixin.qq.com/s/PARX5Hsj0c4QJqejGuK3XQ)                                                              | 2024/5/8  |                               |                                                                                                                                 |
+| 美团               | 北斗计划                                                                                                                     | 2024/6/12 |                               |                                                                                                                                 |
+| 科大讯飞           | [飞星计划、非凡计划、秋招](https://campus.iflytek.com/official-pc/jobList)                                                     | 2024/7/26 |                               |                                                                                                                                 |
+| 腾讯               | 混元大模型                                                                                                                   | 2024/5/17 |                               |                                                                                                                                 |
+| 小米硬件提前批校招 | [官方链接](https://hr.xiaomi.com/campus/recruitment?noticeId=1)                                                              | 2024/7/2  | 北京、武汉、南京、深圳、上海、西安 | 每位同学最多可投递两个职位，但同时仅有一个投递申请可在应聘流程中，我们会默认优先处理最早投递的职位。投递成功后，不可以修改投递职位。 |
+| 友塔游戏           | 秋招提前批                                                                                                                   | 2024/6/19 |                               |                                                                                                                                 |
+| 浪潮集团           | 秋招提前批                                                                                                                   | 2024/6/27 |                               |                                                                                                                                 |
+| CVTE               | 秋招提前批                                                                                                                   | 2024/6/27 |                               |                                                                                                                                 |
+| DJI大疆            | 秋招                                                                                                                         | 2024/7/4  |                               |                                                                                                                                 |
+| 南京银行           | [秋招提前批](https://job.njcb.com.cn/#/campus)                                                                               | 2024/7/4  |                               |                                                                                                                                 |
+| 万德 Wind          | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html)                                                                | 2024/7/6  |                               |                                                                                                                                 |
+| 京东2025管培生     | [微信推文](https://short-link.me/H3Jg)                                                                                       | 2024/7/8  |                               |                                                                                                                                 |
+| 网易雷火           | [秋招](https://leihuo.163.com/campus/#/)                                                                                     | 2024/7/9  |                               |                                                                                                                                 |
+| 百度               | [秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)                                                              | 2024/7/9  |                               |                                                                                                                                 |
+| 米哈游             | [秋招提前批内推](https://jobs.mihoyo.com/?sharePageId=56263&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/7/10 | 上海                          | 提前批仅部分技术岗开发，内推概率免笔试，正式批7月末，校招仅可投一个岗位。                                                           |
+| OPPO               | [秋招](https://careers.oppo.com/university/oppo/campus)                                                                      | 2024/7/10 |                               |                                                                                                                                 |
+| MiniMax            | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp)                                                                   | 2024/7/20 | 北京、上海                     | 提前批不限投递次数，内推码：8W99NRZ                                                                                               |
 | 影石Insta360 | [微信推文](https://mp.weixin.qq.com/s/XjBdv1XbZGx32yt77sSM-A) | 2024/7/24 | 深圳、珠海、东莞、上海 | | |
+| 华为               | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                                              | 2024/7/26 |                               |                                                                                                                                 |
 
 ## 实习篇
 
