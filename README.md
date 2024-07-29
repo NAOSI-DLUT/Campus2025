@@ -38,6 +38,7 @@
 | 米哈游             | [秋招提前批内推](https://jobs.mihoyo.com/?sharePageId=56263&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/7/10 | 上海                          | 提前批仅部分技术岗开发，内推概率免笔试，正式批7月末，校招仅可投一个岗位。                                                           |
 | OPPO               | [秋招](https://careers.oppo.com/university/oppo/campus)                                                                      | 2024/7/10 |                               |                                                                                                                                 |
 | MiniMax            | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp)                                                                   | 2024/7/20 | 北京、上海                     | 提前批不限投递次数，内推码：8W99NRZ                                                                                               |
+| 影石Insta360 | [微信推文](https://mp.weixin.qq.com/s/XjBdv1XbZGx32yt77sSM-A) | 2024/7/24 | 深圳、珠海、东莞、上海 | | |
 | 华为               | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                                              | 2024/7/26 |                               |                                                                                                                                 |
 
 ## 实习篇
