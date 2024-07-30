@@ -40,7 +40,7 @@
 | MiniMax            | [秋招提前批](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp)                                                                   | 2024/7/20 | 北京、上海                     | 提前批不限投递次数，内推码：8W99NRZ                                                                                               |
 | 影石Insta360 | [微信推文](https://mp.weixin.qq.com/s/XjBdv1XbZGx32yt77sSM-A) | 2024/7/24 | 深圳、珠海、东莞、上海 | | |
 | 华为               | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                                              | 2024/7/26 |                               |                                                                                                                                 |
-| 拼多多               | [秋招](https://careers.pinduoduo.com/campus/grad)                                              | 2024/7/30 |                         上海      |   内推码：f5tgflfReP                                                                                                                              |
+| 拼多多               | [秋招](https://careers.pinduoduo.com/campus/grad)                                              | 2024/7/30 |                         上海，广州      |   内推码：f5tgflfReP                                                                                                                              |
 
 ## 实习篇
 
