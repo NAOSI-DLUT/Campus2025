@@ -43,6 +43,7 @@
 | 华为               | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                                              | 2024/7/26 |                               |                                                                                                                                 |
 | 拼多多               | [秋招](https://careers.pinduoduo.com/campus/grad)                                              | 2024/7/30 |                         上海，广州      |   后端开发岗客服技术组内推码：f5tgflfReP  数据分析师岗客服技术组内推码：bTOnnzeRXt  使用对应岗位内推码可优先被对应部门筛选，其他岗位使用内推码仅起到加速流程作用                                                                                                                            |
 | 哔哩哔哩               | [秋招](https://jobs.bilibili.com/campus/)                                              | 2024/8/1 |                         上海，北京，重庆      |  截至2024.8.8仅有工作地点位于上海的岗位，其他工作地点岗位待更新 
+| MiniMax            | [秋招](https://vrfi1sk8a0.jobs.feishu.cn/s/i6nd8qwp)                                                                   | 2024/8/13 | 北京、上海                     | 内推码：8W99NRZ                                                                                               |
 
 ## 实习篇
 
